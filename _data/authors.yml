@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              Paweł Suchan
-  email:             admin@ZionOS.pl
+  email:             admin@pawelsuchan.pl
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -28,7 +28,7 @@ author1:
   social:
     # twitter:         <username>
     github:          pawelsuchan
-    email:           admin@ZionOS.pl
+    email:           admin@pawelsuchan.pl
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
